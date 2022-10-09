@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JinJungJo
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on stock aoto-trading
+- 💞️ I’m looking to collaborate on stock auto-trading
 - 📫 How to reach me GitHub repo
 
 <!---
